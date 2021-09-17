@@ -1,4 +1,4 @@
-# Notebooks sobre Senales y Sistemas
+# Notebooks sobre Señales y Sistemas
 Pluto Notebooks sobre Señales y Sistemas
 
 Estos apuntes han sido creados para los cursos
@@ -9,5 +9,5 @@ Estos apuntes han sido creados para los cursos
  
 del Departamento de Ingeniería Eléctrica de la Pontificia Universidad Católica de Chile.
 
-Author: Rodrigo F. Cádiz
+Autor: Rodrigo F. Cádiz
 www.rodrigocadiz.com
