@@ -1,5 +1,5 @@
 ### A Pluto.jl notebook ###
-# v0.15.1
+# v0.16.0
 
 using Markdown
 using InteractiveUtils
@@ -56,22 +56,22 @@ B.6. [Propiedades de la 2D-DFT](PAS-B-Propiedades_2D_DFT.jl.html)
 
 B.7. [Otras Transformadas 2D discretas](PAS-B-Otras_Transformadas_2D.jl.html)
 
-B.8. [Extensión a $\mathbb{R}^n$](PAS-B-Extension_Rn.jl.html)
+B.8. [Extensión a $\mathbb{Z}^n$](PAS-B-Extension_Zn.jl.html)
 
 
-## C. Señales y procesos estocásticas
+## C. Señales y procesos estocásticos
 
-C.1. Variables aleatorias
+C.1. [Variables aleatorias](PAS-C-Variables_aleatorias.jl.html)
 
-C.2. Procesos estocásticos
+C.2. [Procesos estocásticos](PAS-C-Procesos_estocasticos.jl.html)
 
-C.3. Ruido blanco
+C.3. [Autocorrelación](PAS-C-Autocorrelacion.jl.html)
 
-C.4. Autocorrelación
+C.4. [Propiedades de los procesos estocásticos](PAS-C-Propiedades_procesos_estocasticos.jl.html)
 
-C.5. Densidad espectral de potencia
+C.5. [Densidad espectral de potencia](PAS-C-Densidad_espectral_de_potencia.jl.html)
 
-C.6. Sistemas lineales con entradas aleatorias estacionales
+C.6. [Sistemas lineales con entradas aleatorias estacionales](PAS-C-Sistemas_lineales.jl.html)
 
 
 ## D. Modelos lineales de señal
